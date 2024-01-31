@@ -3,15 +3,15 @@
 
 <div align="center">
 
-  <a href="https://github.com/reimoo06/PyPingTester/stargazers">![Stargazers]( https://img.shields.io/github/stars/reimoo06/PyPingTester.svg?style=for-the-badge)</a>
+  <a href="https://github.com/reimoo06/mmdev/stargazers">![Stargazers]( https://img.shields.io/github/stars/reimoo06/mmdev.svg?style=for-the-badge)</a>
 
 </div>
 
 
 <div align="center">
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="src/m2.png" alt="Logo" width="80" height="80">
+<a href="https://github.com/reimoo06/mmdev">
+    <img src="src/images/m2.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">M²Dev</h3>
 
