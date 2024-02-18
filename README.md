@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/reimoo06/mmdev">
-    <img src="src/images/m2.png" alt="Logo" width="80" height="80">
+    <img src="Tugas/images/m2.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">M²Dev</h3>
 
